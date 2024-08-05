@@ -1,13 +1,15 @@
 -- Step 1: Create a new database
 CREATE DATABASE task_manager;
 
--- Step 2: Create the Users table
+-- Step 2: SELECT THIS DATABASE!!
+
+-- Step 3: Create the Users table
 CREATE TABLE Users (
     email VARCHAR(255) NOT NULL PRIMARY KEY,
     password VARCHAR(255) NOT NULL
 );
 
--- Step 3: Create the Tasks table
+-- Step 4: Create the Tasks table
 CREATE TABLE Tasks (
     id SERIAL PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
