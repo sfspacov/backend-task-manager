@@ -3,6 +3,8 @@
 
 This is a simple task manager application built with Node.js, Express, and TypeScript. It includes CORS for handling cross-origin requests, Swagger for API documentation, an in-memory cache for performance enhancement, and JWT tokens for authorization.
 
+## **🌟 Frontend project that fits perfectly with this backend: [https://github.com/sfspacov/front-task-manager](https://github.com/sfspacov/front-task-manager) 🌟**
+
 ## Prerequisites
 
 - A running PostgreSQL instance is required for the database.
@@ -28,7 +30,7 @@ This is a simple task manager application built with Node.js, Express, and TypeS
 
 2. **Database Setup**
 
-   Open your PostgreSQL instance and execute each step of the script located at: `src/db/scripts/generate-db.sql`.
+   Open your PostgreSQL instance and execute each step of the script located at: [https://github.com/sfspacov/backend-task-manager/blob/main/src/db/scripts/generate-db.sql] (`src/db/scripts/generate-db.sql`).
 
 3. **Install Dependencies**
 
