@@ -30,7 +30,7 @@ This is a simple task manager application built with Node.js, Express, and TypeS
 
 2. **Database Setup**
 
-   Open your PostgreSQL instance and execute each step of the script located at: [https://github.com/sfspacov/backend-task-manager/blob/main/src/db/scripts/generate-db.sql] (`src/db/scripts/generate-db.sql`).
+   Open your PostgreSQL instance and execute each step of the script located at: [https://github.com/sfspacov/backend-task-manager/blob/main/src/db/scripts/generate-db.sql](src/db/scripts/generate-db.sql).
 
 3. **Install Dependencies**
 
